@@ -343,6 +343,7 @@ main {
         column-count: 3;
     }
 
+    /* Form */
     #signup {
         background-position: center;
         position: relative;
@@ -350,17 +351,16 @@ main {
 
     #signup-form {
         max-width: 400px;
-        left: 15%;
+        left: 10%;
         top: 150px;
         position: absolute;
     }
 
-    .text-input :hover {
+    .text-input:hover {
         border-color: #f16c6b;
-
     }
 
-    .join-button :hover {
+    .join-button:hover {
         background-color: #fafafa;
         color: #454b1b;
     }
