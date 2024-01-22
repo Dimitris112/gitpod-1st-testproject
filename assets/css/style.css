@@ -100,12 +100,13 @@ main {
     display: flex;
     flex-direction: column;
 }
-
+/* Form */
 #signup {
     background-image: url("../images/signup-image.webp");
     background-size: cover;
     background-position: 75%;
     flex-grow: 1;
+    padding: 20px 10% 0 10%;
 }
 
 #signup-form {
