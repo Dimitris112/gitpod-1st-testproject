@@ -132,7 +132,7 @@ main {
     padding: 0 5px;
 }
 
-#radio-buttons {
+.radio-buttons {
     display: flex;
     justify-content: space-between;
     width: 100%;
